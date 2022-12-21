@@ -1,1 +1,1 @@
-PokemonClub Landing Page
+PokemonClub Landing Page - Semantic
